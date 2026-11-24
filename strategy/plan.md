@@ -38,3 +38,12 @@ numbers from `reports/visits.md` as soon as there are 10 visits.
 
 ## Numbers we track weekly
 Emails sent, opens, replies; visits; owner conversations; demos; quotes out; sales; warm intros received (by source).
+
+## Website tracking (brief reply, 25 Nov 2026 - `strategy/briefs/2026-11-25-website-tracking-reply.pdf`)
+- Being built in the two website chats (not here): Meta/LinkedIn/Google tags on ecosystem.measureflow.com.au and on
+  officeflow /ecosystem/, /roadmap/, /privacy/ only; a `demo_visits` log of ?r= + utm visits with seconds on site;
+  "Book a 15-min look with Paul" buttons that open the ecosystem booking form (leads email accounts@ with r and utm).
+- All tags stay off until Paul creates the Meta, LinkedIn and Google ad accounts and adds the IDs in Netlify.
+- Marketing side, once live: `?r=<queue n>` on campaign email links ONLY after Paul approves (copy change);
+  the Sales meeting and Strategist read the weekly "visits by r" view and booking leads; paid retargeting
+  is a proposal for Paul's sign-off, not automatic.
