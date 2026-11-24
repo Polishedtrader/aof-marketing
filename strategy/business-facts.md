@@ -14,8 +14,23 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Contact: Paul Snelling, 0412 706 791, accounts@measureflow.com.au, PO Box 59, Beechwood NSW 2446.
 - Sales approach: cold email -> one follow-up -> Paul visits/calls owners in person. Owners only.
 
+## Pricing (Paul, 25 Nov 2026, and his accepted Keena proposal of 16 Nov 2026)
+- Build: a one-off cost, from about $10k up depending on the size of the business. Example: a full office +
+  factory business (11+ people) was $17,990 (system build + migration/set-up/training + 3 months running costs),
+  paid in four stages (30% on signing, system ready, go-live, final 30 days after go-live).
+- Pitch line used: "The system is already built. Your price is for fitting it to your business."
+- Timeline example: about 8 weeks to build, then 2-3 weeks on site. Kitchens first; bathrooms and commercial
+  are separate later stages with their own price.
+- Support plans (6-month minimum, from go-live): Solo $199/month (owner-run, 1-2 people), Studio $349/month
+  (3-10 people), Factory $549/month (11+ people). Paul: "around $600/month" for a full business.
+- Running costs (paid straight to providers, on the business's own accounts): about $73/month
+  (Supabase, Netlify, Twilio texts, Resend, Claude AI).
+- Extra features later: $130/hour, fixed quote first over 4 hours.
+- Prices in AUD, GST added where it applies.
+- Never quote a specific customer's price or name in marketing.
+
 ## Still needed from Paul (most useful first)
-1. Price: what a typical build costs and the monthly support plan (even a range), and whether it can be shown.
+1. Price signal: may marketing say "builds from about $10k, support from $199/month" publicly?
 2. The two customers: who, what they bought, results so far, and whether we may name them or ask for a quote.
 3. Warm lists: how many CabinetCare partners and MeasureFlow Measure/Render/Studio customers there are, and
    whether we may approach them about AI Office Flow.
