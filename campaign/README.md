@@ -33,7 +33,7 @@ New wording, subject lines or campaigns are drafts for the Friday meeting until 
    and move to the next business (one send a day). No thanks / bounced: `mark.py <address> no-thanks` (or bounced).
 5. Send with the Resend connector:
    - from: `MeasureFlow <jobs@officeflow.measureflow.com.au>`
-   - reply_to: `accounts@measureflow.com.au`
+   - reply_to: `accounts@measureflow.com.au`, bcc: `accounts@measureflow.com.au` (Paul keeps a copy of every send, from 24 Nov 2026)
    - to: the address in queue.csv, subject from queue.csv, html: the file's contents (signed-off copy).
    - header `List-Unsubscribe: <mailto:accounts@measureflow.com.au?subject=Unsubscribe>` if the tool allows headers.
    If the Resend connector isn't connected, don't send: tell Paul it needs connecting in claude.ai and stop.

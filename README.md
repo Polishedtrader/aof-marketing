@@ -34,7 +34,7 @@ The code lives in Polishedtrader/ai-office-flow: never change it from here. The 
   `social/` - weekly posts.
 
 ## Sending setup
-- Resend, from `MeasureFlow <jobs@officeflow.measureflow.com.au>`, reply-to `accounts@measureflow.com.au` (Titan mail at
+- Resend, from `MeasureFlow <jobs@officeflow.measureflow.com.au>`, reply-to and bcc `accounts@measureflow.com.au` (Titan mail at
   Vodien), header `List-Unsubscribe: <mailto:accounts@measureflow.com.au?subject=Unsubscribe>`.
 - Domain officeflow.measureflow.com.au (DNS at Vodien). Open/click tracking on (CNAME `track.officeflow` ->
   links2.resend-dns.com, verified 24 Nov 2026). An MX record isn't possible there (officeflow is the website's CNAME).
