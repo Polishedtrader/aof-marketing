@@ -20,6 +20,17 @@ competitors (web). NOT reviewed (couldn't be opened from here): measureflow.com.
    clicks through sees five products. A focused AI Office Flow landing page (or the hero changing when ?r= is
    present) would match the email.
 
+## Links (checked 25 Nov 2026)
+- ecosystem.measureflow.com.au -> officeflow: 13 links (phone demo, system demo, roadmap). Works one way.
+- officeflow -> ecosystem.measureflow.com.au: NONE. The demo (/ecosystem/, /ecosystem/interface/), the app
+  preview (/preview/apps/) and the roadmap (/roadmap/) never link back to the main site or its Book a demo form.
+  The roadmap sends by mailto; the preview offers only a phone number.
+- Campaign emails (326 built) link to officeflow only (/preview/apps/, /ecosystem/); none to the main site.
+- So every email click lands somewhere with no booking button. Fix (code chat): a "Book a 15-min look with Paul"
+  button -> ecosystem booking form (with r) and a "MeasureFlow" home link on /preview/apps/, /ecosystem/,
+  /ecosystem/interface/ and /roadmap/.
+- Odd link: the CabinetCare "90-Day Completion Report" card on the ecosystem site links to measureflow.com.au/#pricing.
+
 ## Positioning vs competitors
 Australian kitchen/joinery software is mostly production/ERP on subscription: Jobman (end-to-end ERP for cabinet
 makers, integrates with Cabinet Vision), CabiPro (job management for cabinet makers/joinery), WorkGuru, plus
