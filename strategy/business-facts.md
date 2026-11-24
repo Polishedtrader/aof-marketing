@@ -14,6 +14,11 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Contact: Paul Snelling, 0412 706 791, accounts@measureflow.com.au, PO Box 59, Beechwood NSW 2446.
 - Sales approach: cold email -> one follow-up -> Paul visits/calls owners in person. Owners only.
 
+## Positioning (Paul, 25 Nov 2026)
+- AI Office Flow is MADE TO MEASURE: built around each business's own people, job steps, forms and suppliers -
+  like the kitchens they build - not off-the-shelf software they have to fit into (Jobman, CabiPro, Tradify etc.).
+- Working line: "You build kitchens made to measure. Your office system should be too."
+
 ## Pricing (Paul, 25 Nov 2026, and his accepted Keena proposal of 16 Nov 2026)
 - Build: a one-off cost, from about $10k up depending on the size of the business. Example: a full office +
   factory business (11+ people) was $17,990 (system build + migration/set-up/training + 3 months running costs),
