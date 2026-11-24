@@ -21,6 +21,7 @@ The code lives in Polishedtrader/ai-office-flow: never change it from here. The 
 | Inbox watcher | Weekdays 11:53am | Bounces, replies, no-thanks; pushes interested replies to Paul straight away. |
 | Social writer | Wednesdays 10:23am | 3 posts for Facebook, Instagram, LinkedIn in `social/`, for Paul to approve and post. |
 | Lead researcher | Mondays 8:52am | New kitchen/joinery businesses by region into contacts.csv + queue.csv (runs on Paul's PC). |
+| Strategist | Thursdays 1:37pm | Head of marketing: researches and ranks new ways to reach owners, keeps `strategy/ideas.md` and `strategy/plan.md`, brings the top 1-2 proposals to Friday. |
 | Sales manager | Fridays 2:47pm | Weekly sales meeting: report doc, who to call, plan, sign-offs; decisions in `meetings/`. |
 
 ## Files
