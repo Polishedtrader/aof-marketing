@@ -48,3 +48,33 @@ payment stages on rough-in, tiling and finish.
   answered by the customer's own app.
 - For visits: Paul can open the roadmap on an iPad and map the owner's process with them in 10 minutes - it gets
   the owner talking about their own business and produces the quote basis on the spot.
+
+## The rest of the ecosystem (from ecosystem.measureflow.com.au, 25 Nov 2026)
+One job number carries through: enquiry (AI Office Flow) -> site survey (Measure) -> two concept renders
+(Render AI) -> contract, Cabinet Vision files, factory and install (AI Office Flow) -> 90-day care visit
+(CabinetCare) -> content published (MeasureFlow Studio) -> new enquiries back into AI Office Flow.
+"One job becomes twelve business assets." Site headline: "Measured once. Marketed everywhere."
+
+- Measure (measureflow.com.au/measure): site-survey software for kitchen, wardrobe and laundry studios, site
+  checkers and estimators - room sketch (walls, doors, windows, services), client/spec checklist by job type,
+  one-tap DXF/PDF/CSV export incl. to-scale DXF for SketchUp, branded PDF info sheet with photos.
+  Tagline: "Measure on site. Flow to result."
+- Render AI (measureflow.com.au/ai): two concept renders built from the survey (room shape and size from the
+  sketch, client's finishes and layout), 4K photoreal finals once the client picks; includes Measure.
+  Must always carry: renders are concept visuals, not measured drawings - confirm dimensions from the survey.
+- CabinetCare (cabinetcare.com.au, partner portal): returns ~90 days after install to adjust the joinery,
+  documents the visit (90-Day Completion Report), professional photos with the homeowner's consent flow into
+  Studio, neutral Google review request. Kitchen company adds it to their quote, logs the install, CabinetCare
+  books the client ~day 70. Kitchen Care Program for ongoing care. Serves Coffs Harbour to Taree.
+- MeasureFlow Studio: AI marketing for kitchen and joinery studios - finished jobs in, AI writes captions, SEO,
+  blog and Houzz copy and before/after reels, one approve queue, publishes to Instagram, Facebook, Houzz, blog,
+  Google review prompts; Studio+ AI Agent coming soon.
+- Prices seen in another brief (UNCONFIRMED - check measureflow.com.au/#pricing before using): Measure tool
+  about $20-199/month, Studio about A$169-599/month, CabinetCare $350 inc GST per kitchen.
+
+## Ecosystem marketing angles
+- A ladder: Measure, Studio and CabinetCare are low-commitment entry points; AI Office Flow is the big build.
+  Their customers/partners already trust Paul - the warmest AOF leads (approach only with Paul's OK).
+- Use Studio to market MeasureFlow's own products ("the product is the proof"): AOF posts could go through Studio.
+- In visits, the whole-job story (one number from enquiry to 90-day visit to new enquiry) is the bigger vision;
+  lead with AOF, show the rest as "and when you're ready".

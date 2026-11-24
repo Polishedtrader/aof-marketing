@@ -48,4 +48,6 @@ What the team knows about the business, and what it still needs from Paul. Updat
 4. Sales target: how many builds Paul can deliver a month, and the goal (e.g. by March 2027).
 5. The ideal customer: business size, type and region that fits best (and who doesn't).
 6. What measureflow.com.au and cabinetcare.com.au say now (the team can't open them from here).
-7. Cabinet Vision: may AOF marketing name it, or keep it out of copy as Studio content does?
+7. Measure/Render/Studio/CabinetCare: current prices, how many customers each has, and is Render AI ready to
+   sell (first-render accuracy)?
+8. Cabinet Vision: may AOF marketing name it, or keep it out of copy as Studio content does?
