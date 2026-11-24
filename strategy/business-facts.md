@@ -29,6 +29,12 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Prices in AUD, GST added where it applies.
 - Never quote a specific customer's price or name in marketing.
 
+## Competitor pricing (Paul, 25 Nov 2026)
+- Jobman: about $1,600/month for the standard software (Paul's figure - verify before quoting publicly).
+- Comparison for a full business: AOF about $622/month (Factory support $549 + ~$73 running) vs Jobman ~$1,600,
+  i.e. ~$980/month less; a $17,990 build is covered by that difference in about 18 months, and the business owns
+  the system and its accounts. (Scope differs - Jobman is a production ERP; don't claim like-for-like.)
+
 ## Still needed from Paul (most useful first)
 1. Price signal: may marketing say "builds from about $10k, support from $199/month" publicly?
 2. The two customers: who, what they bought, results so far, and whether we may name them or ask for a quote.
