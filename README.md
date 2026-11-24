@@ -36,9 +36,11 @@ The code lives in Polishedtrader/ai-office-flow: never change it from here. The 
 ## Sending setup
 - Resend, from `MeasureFlow <jobs@officeflow.measureflow.com.au>`, reply-to `accounts@measureflow.com.au` (Titan mail at
   Vodien), header `List-Unsubscribe: <mailto:accounts@measureflow.com.au?subject=Unsubscribe>`.
-- Domain officeflow.measureflow.com.au (DNS at Vodien). Receiving and open/click tracking turned on 24 Nov 2026; they
-  need the MX record (`officeflow` -> receive-apne1.forge.rmta.net, priority 10) and the tracking CNAME
-  (`track.officeflow` -> links2.resend-dns.com) at Vodien. Planned: a replies@officeflow.measureflow.com.au inbox in Resend.
+- Domain officeflow.measureflow.com.au (DNS at Vodien). Open/click tracking on (CNAME `track.officeflow` ->
+  links2.resend-dns.com, verified 24 Nov 2026). An MX record isn't possible there (officeflow is the website's CNAME).
+- Replies: Titan forwards a copy of all accounts@ mail (copy kept in Titan) to the Resend inbox "AOF campaign replies"
+  (replies@officeflow.measureflow.com.au, id 2bb5d7e2-a307-4610-b8c2-1f72de5ce63d). The Inbox watcher acts only on
+  campaign businesses and ignores the rest.
 - Logos: use the PNG favicon via `https://officeflow.measureflow.com.au/.netlify/images?url=<encoded>&w=96&h=96&fit=contain&fm=png`.
 
 ## Where things stood at the move (24 Nov 2026)
