@@ -21,7 +21,10 @@ numbers from `reports/visits.md` as soon as there are 10 visits.
 3. **Proof**: one named quote or short video from a customer, used in emails, visits and social.
 4. **Cold email**: 1 a day, NSW Mid North Coast first. Keep it running and judge it after 20 sends (about 11 Dec).
 5. **Social, 3 posts a week**: supports credibility; don't expect direct sales from it.
-6. Later (Feb+): trade bookkeepers/accountants, ACFA, trade media story, a local demo night.
+6. **Paid ads to owners (test)**: from 12 Jan, 4 weeks, capped at about $1,200 across LinkedIn (our own company list,
+   owner titles), Meta (retargeting demo visitors) and Google Search (exact phrases). Kill rule: stop if $600 is spent
+   with no owner conversations. Needs Paul's approval and his card. See ideas.md #2b.
+7. Later (Feb+): trade bookkeepers/accountants, ACFA, trade media story, a local demo night.
 
 ## This month's focus (Dec 2026)
 - Get proof and warm intros from the two existing customers (proposal 27 Nov).

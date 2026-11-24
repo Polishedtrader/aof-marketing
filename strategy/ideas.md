@@ -15,6 +15,36 @@ Status: new / proposed / approved / testing / worked / dropped (+ why).
 
 ## Ranked backlog (newest thinking at top)
 
+### 2b. Targeted paid ads to kitchen/joinery OWNERS — PROPOSED (Paul asked 25 Nov; meeting 27 Nov)
+- What: a 4-week, capped test from 12 Jan 2027 (not Dec: shops are flat out and then shut).
+  a) LinkedIn: upload our own list of businesses (queue.csv company names + websites) as a company list and target
+     Owner / Director / Founder / Managing Director titles at those companies. Ad: a 30-45 s video of Paul
+     ("25 years running a kitchen business, so I built the office I wanted") → book a 15-min look.
+     About $25/day.
+  b) Meta (Facebook/Instagram): retarget people who visited the demo page, plus custom audiences from our list.
+     Needs the Meta pixel on the demo site (the code chat does that). About $10/day.
+  c) Google Search: exact phrases like "kitchen business software", "joinery job management software",
+     "cabinet maker software". Small volume, but every click is someone looking. About $10/day.
+- Why: the market is small and countable (we already have 326 named businesses), so the money should go only on
+  those owners, not on broad audiences. Evidence and limits:
+  - LinkedIn B2B clicks are dear, about $5-12 each, and retargeting about $3-6
+    (https://www.stackmatix.com/blog/linkedin-average-cost-per-click; agency figures, likely USD).
+  - Meta detailed targeting is now mostly a "suggestion", so Meta can't reliably pick out business owners. It is
+    better at retargeting and custom audiences (https://www.jonloomer.com/meta-ads-targeting-2026/). More targeting
+    options were removed from 15 Jan 2026
+    (https://www.socialmediatoday.com/news/meta-removes-more-detailed-ad-targeting-options-facebook-instagram/757856/).
+  - Print: The Australian Woodworker is from ~$930 a quarter page (2023 rates,
+    https://www.skillspublish.com.au/ad-rates-specs/), but it is hobbyist-heavy, so it's a poor fit. ACFA's Connect
+    Magazine (free, cabinetmaking/joinery) doesn't publish rates; ask at advertising@connectmagazine.com.au.
+- Risk: LinkedIn needs a minimum audience size, and small shops' owners are often not on LinkedIn. If our list
+  is too small, widen to Owner/Director titles in furniture/cabinetry and construction industries, NSW only.
+- Cost: capped at ~$1,200 for 4 weeks (about $45/day) + 1 hr of Paul's time (record the video, approve ads).
+  The team sets up drafts; Paul pays and presses go.
+- Expected: honest guess, 100-200 clicks → 2-5 owner conversations. One sale pays for years of this.
+- Test and kill rule: if $600 is spent with zero owner conversations or demo bookings, stop. Keep a channel if it
+  costs under ~$300 per owner conversation.
+- Status: proposed. Ranked below the warm intros (1, 2) because money buys attention, not trust.
+
 ### 1. Proof from the two existing customers + owner-to-owner referrals — PROPOSED (meeting 27 Nov)
 - What: Paul (himself, not the team) asks each of his two customers for (a) OK to name them and a 60-90 s phone video
   or 3-line quote on what changed, and (b) the names of 2-3 owners they know and respect, plus an intro text.
