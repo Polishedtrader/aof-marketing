@@ -38,6 +38,7 @@ Status: new / proposed / approved / testing / worked / dropped (+ why).
     Magazine (free, cabinetmaking/joinery) doesn't publish rates; ask at advertising@connectmagazine.com.au.
 - Risk: LinkedIn needs a minimum audience size, and small shops' owners are often not on LinkedIn. If our list
   is too small, widen to Owner/Director titles in furniture/cabinetry and construction industries, NSW only.
+- Setup needed first: strategy/tracking-setup.md (accounts, pixel/tags via the code chat, email link tags, audiences).
 - Cost: capped at ~$1,200 for 4 weeks (about $45/day) + 1 hr of Paul's time (record the video, approve ads).
   The team sets up drafts; Paul pays and presses go.
 - Expected: honest guess, 100-200 clicks → 2-5 owner conversations. One sale pays for years of this.
