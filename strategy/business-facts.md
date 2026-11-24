@@ -21,6 +21,9 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - AI Office Flow is MADE TO MEASURE: built around each business's own people, job steps, forms and suppliers -
   like the kitchens they build - not off-the-shelf software they have to fit into (Jobman, CabiPro, Tradify etc.).
 - Working line: "You build kitchens made to measure. Your office system should be too."
+- WE TRAIN YOUR STAFF (Paul, 25 Nov 2026): Paul's team trains each person on the system AND on using AI in their
+  job, on site, by role (2-3 weeks on site at go-live, two training sessions). Owners don't have to learn it alone
+  or find time to teach staff. Use it in emails, scripts, the AI chat and on the website.
 
 ## Pricing (Paul, 25 Nov 2026, and his accepted Keena proposal of 16 Nov 2026)
 - Build: a one-off cost, from about $10k up depending on the size of the business. Example: a full office +
