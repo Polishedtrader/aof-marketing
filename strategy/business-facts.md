@@ -60,6 +60,8 @@ What the team knows about the business, and what it still needs from Paul. Updat
   - It remembers what's been sent and when (quotes, plans, orders, invoices, reminders) - nothing relies on memory.
   - Everyone kept in the loop through the apps: customers and installers see where the job is, under the
     business's own brand, so the "where are we up to?" calls stop.
+  - The apps send reminders to the team and to clients: what's needed next (selections, sign-offs, payments,
+    site ready) and when trades are arriving (measure, delivery, install, plumber, electrician, stone).
   - Reviews come in automatically at the end of each job, feeding the marketing.
 - AOF is here to upset that space and move them all digital.
 - So the real competitor is paper and "the way we've always done it", not other software.
