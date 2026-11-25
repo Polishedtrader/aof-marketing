@@ -4,7 +4,7 @@ n,state,priority,to,subject,html_file,status,sent_date,notes,follow_date,follow_
 3,NSW,0 Mid North Coast,showroom@concept-kitchens.com.au,Your customers could have the Concept Kitchens app on their phone,concept-kitchens.html,sent,2026-11-21,Port Macquarie,2026-11-25,01a1fc6e-5d6c-71c7-abcd-91f6886e7072
 4,NSW,0 Mid North Coast,admin@uniquedesignkitchens.com.au,Your customers could have the Unique Design Kitchens & Joinery app on their phone,unique-design-kitchens-joinery.html,sent,2026-11-23,Port Macquarie,2026-11-26,01a20665-d32b-70a1-97d9-838b55f41a3c
 5,NSW,0 Mid North Coast,admin@olj.com.au,Your customers could have the Old Lake Joinery app on their phone,old-lake-joinery.html,sent,2026-11-24,Port Macquarie,2026-11-27,01a20a71-e9d4-7c64-bfcb-f8709063d983
-7,NSW,0 Mid North Coast,alex@midcoastkitchens.com.au,Your customers could have the Mid Coast Kitchens app on their phone,mid-coast-kitchens.html,sent,2026-11-25,Port Macquarie; FOLLOW-UP HELD - needs logo (30 Nov one cancelled 25 Nov),,
+7,NSW,0 Mid North Coast,alex@midcoastkitchens.com.au,Your customers could have the Mid Coast Kitchens app on their phone,mid-coast-kitchens.html,sent,2026-11-25,"Port Macquarie; FOLLOW-UP HELD (30 Nov one cancelled 25 Nov) - logo now found 25 Nov, ready to rebook",,
 8,NSW,0 Mid North Coast,sales@hastingskitchens.com.au,Your customers could have the Hastings Kitchens app on their phone,hastings-kitchens.html,queued,,Wauchope,,
 9,NSW,0 Mid North Coast,bagokitchens@outlook.com,Your customers could have the Bago Kitchens app on their phone,bago-kitchens.html,queued,,Wauchope,,
 10,NSW,0 Mid North Coast,info@cdcm.net.au,"Drew and Trudi, your customers could have the CDCM Kitchens and Bathrooms app on their phone",cdcm-kitchens-and-bathrooms.html,queued,,Kempsey,,
@@ -39,9 +39,9 @@ n,state,priority,to,subject,html_file,status,sent_date,notes,follow_date,follow_
 39,NSW,1 Start here,highkraft@bigpond.com,"Joe, your customers could have the High Kraft Kitchens & Joinery app on their phone",high-kraft-kitchens-joinery.html,queued,,,,
 40,NSW,1 Start here,darrynlisahbr@gmail.com,"Darryn, your customers could have the Horgan Building and Renovation app on their phone",horgan-building-and-renovation.html,queued,,,,
 41,NSW,1 Start here,info@fabricajoinery.com.au,"Jake, your customers could have the Fabrica Joinery app on their phone",fabrica-joinery.html,queued,,,,
-42,NSW,1 Start here,info@garryjeanskitchens.com.au,"Brenden and Claire Jeans, your customers could have the Garry Jeans Kitchens app on their phone",garry-jeans-kitchens.html,queued,,,,
+42,NSW,1 Start here,info@garryjeanskitchens.com.au,"Brenden and Claire, your customers could have the Garry Jeans Kitchens app on their phone",garry-jeans-kitchens.html,queued,,,,
 43,NSW,1 Start here,glen@inovativeinteriors.com.au,"Glen, your customers could have the Inovative Interiors app on their phone",inovative-interiors.html,queued,,,,
-44,NSW,1 Start here,info@4kitchens.com.au,"Mario, your customers could have the Kitchens 1 app on their phone",kitchens-1.html,queued,,,,
+44,NSW,1 Start here,info@4kitchens.com.au,Your customers could have the 4Kitchens app on their phone,kitchens-1.html,queued,,,,
 45,NSW,1 Start here,info@mb9.com.au,"John, your customers could have the MB9 Australia app on their phone",mb9-australia.html,queued,,,,
 46,NSW,1 Start here,info@paianokitchens.com.au,"Bev and Joe, your customers could have the Paiano Custom Kitchens app on their phone",paiano-custom-kitchens.html,queued,,,,
 47,NSW,1 Start here,sales@ddkitchens.com.au,"Peter, your customers could have the Dalmeny Designer Kitchens app on their phone",dalmeny-designer-kitchens.html,queued,,,,
