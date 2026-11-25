@@ -59,7 +59,8 @@ What the team knows about the business, and what it still needs from Paul. Updat
   calls, late nights on paperwork), then show the fix. On visits, open with "What's costing you the most time?"
 - Proof it works (Paul, internal - never name the customer publicly): what won the accepted $17,990 sale was
   exactly this - fixing their issues, and the branded client app that makes the business look good to its
-  clients while clients always know where their job is at. Lead with these two.
+  clients while clients always know where their job is at - so they STAND OUT FROM THEIR COMPETITORS (other
+  kitchen companies still sending texts and paper). Lead with these.
 - Core belief (Paul): "Time is the one thing we can't get more of." Lead with time.
 - What the owner gets (Paul, 25 Nov 2026):
   - Saves time / time management: the owner and team know what's on, what's next and who's where, without
