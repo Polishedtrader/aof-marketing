@@ -55,7 +55,8 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - AOF is ONE system that talks from enquiry to marketing: enquiry -> quote -> signing -> design -> factory ->
   install -> customer care -> reviews/marketing, all connected, in the business's own name.
 - What the owner gets (Paul, 25 Nov 2026):
-  - Saves time.
+  - Saves time / time management: the owner and team know what's on, what's next and who's where, without
+    chasing - the system plans and reminds so nobody's day is lost to phone calls and paperwork.
   - A system that thinks for you: it knows the next step and does it or prompts it.
   - It remembers what's been sent and when (quotes, plans, orders, invoices, reminders) - nothing relies on memory.
   - Everyone kept in the loop through the apps: customers and installers see where the job is, under the
