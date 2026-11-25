@@ -57,6 +57,9 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Positioning (Paul, 25 Nov 2026): we are the company that FIXES ISSUES - not a software seller.
   Lead with the owner's problems (missed enquiries, chasing, wrong orders, double handling, "where are we up to?"
   calls, late nights on paperwork), then show the fix. On visits, open with "What's costing you the most time?"
+- Proof it works (Paul, internal - never name the customer publicly): what won the accepted $17,990 sale was
+  exactly this - fixing their issues, and the branded client app that makes the business look good to its
+  clients while clients always know where their job is at. Lead with these two.
 - Core belief (Paul): "Time is the one thing we can't get more of." Lead with time.
 - What the owner gets (Paul, 25 Nov 2026):
   - Saves time / time management: the owner and team know what's on, what's next and who's where, without
