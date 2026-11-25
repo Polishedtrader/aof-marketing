@@ -48,7 +48,9 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Never quote a specific customer's price or name in marketing.
 
 ## The mission (Paul, 25 Nov 2026)
-- Most kitchen companies still run on paper: job folders, diaries, whiteboards, phone calls and texts.
+- Most kitchen companies still run their INTERNAL processes on paper: job folders, job sheets, diaries,
+  whiteboards, order and cutting lists, install schedules, phone calls and texts between office, factory and installers.
+  (Many already use design software - that's fine; it's everything around the design that's on paper.)
 - AOF is here to upset that space and move them all digital.
 - So the real competitor is paper and "the way we've always done it", not other software.
   Main audience: owners on paper who've never bought office software (not people switching from Jobman).
