@@ -47,6 +47,14 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Prices in AUD, GST added where it applies.
 - Never quote a specific customer's price or name in marketing.
 
+## The mission (Paul, 25 Nov 2026)
+- Most kitchen companies still run on paper: job folders, diaries, whiteboards, phone calls and texts.
+- AOF is here to upset that space and move them all digital.
+- So the real competitor is paper and "the way we've always done it", not other software.
+  Main audience: owners on paper who've never bought office software (not people switching from Jobman).
+  Message: going digital without the pain - built around how you already work, set up for you, staff and AI
+  training included, and your customers see your brand.
+
 ## Who the competition is (Paul, 25 Nov 2026)
 - Competitors = CRM / job-management systems: Jobman, CabiPro, WorkGuru, Tradify, ServiceM8, simPRO, Fergus,
   plus general CRMs kitchen businesses use (HubSpot, Pipedrive, monday.com, spreadsheets).
