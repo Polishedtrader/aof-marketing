@@ -25,8 +25,11 @@ What the team knows about the business, and what it still needs from Paul. Updat
   job, on site, by role (2-3 weeks on site at go-live, two training sessions). Owners don't have to learn it alone
   or find time to teach staff. Use it in emails, scripts, the AI chat and on the website.
 
+## Public price line (APPROVED by Paul, 25 Nov 2026)
+- "Builds start at $6,990. Support plans start at $199 a month." OK to use in the chat, website, emails and scripts.
+
 ## Pricing (Paul, 25 Nov 2026, and his accepted Keena proposal of 16 Nov 2026)
-- Build: a one-off cost, from about $10k up depending on the size of the business. Example: a full office +
+- Build: a one-off cost, STARTING AT $6,990 (Paul, 25 Nov 2026), depending on the size of the business. Example: a full office +
   factory business (11+ people) was $17,990 (system build + migration/set-up/training + 3 months running costs),
   paid in four stages (30% on signing, system ready, go-live, final 30 days after go-live).
 - Pitch line used: "The system is already built. Your price is for fitting it to your business."
@@ -47,7 +50,6 @@ What the team knows about the business, and what it still needs from Paul. Updat
   the system and its accounts. (Scope differs - Jobman is a production ERP; don't claim like-for-like.)
 
 ## Still needed from Paul (most useful first)
-1. Price signal: may marketing say "builds from about $10k, support from $199/month" publicly?
 2. The two customers: who, what they bought, results so far, and whether we may name them or ask for a quote.
 3. Warm lists: how many CabinetCare partners and MeasureFlow Measure/Render/Studio customers there are, and
    whether we may approach them about AI Office Flow.
