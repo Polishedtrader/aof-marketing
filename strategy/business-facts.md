@@ -47,6 +47,12 @@ What the team knows about the business, and what it still needs from Paul. Updat
 - Prices in AUD, GST added where it applies.
 - Never quote a specific customer's price or name in marketing.
 
+## Who the competition is (Paul, 25 Nov 2026)
+- Competitors = CRM / job-management systems: Jobman, CabiPro, WorkGuru, Tradify, ServiceM8, simPRO, Fergus,
+  plus general CRMs kitchen businesses use (HubSpot, Pipedrive, monday.com, spreadsheets).
+- Design software (Cabinet Vision, Mozaik, Polyboard, 20-20, etc.) is NOT competition - AOF integrates with it.
+  Research and copy must never position against design software.
+
 ## Competitor pricing (Paul, 25 Nov 2026)
 - Jobman: about $1,600/month for the standard software (Paul's figure - verify before quoting publicly).
 - Comparison for a full business: AOF about $622/month (Factory support $549 + ~$73 running) vs Jobman ~$1,600,
