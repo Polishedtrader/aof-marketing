@@ -25,6 +25,10 @@ What the team knows about the business, and what it still needs from Paul. Updat
   job, on site, by role (2-3 weeks on site at go-live, two training sessions). Owners don't have to learn it alone
   or find time to teach staff. Use it in emails, scripts, the AI chat and on the website.
 
+## Design software (Paul, 25 Nov 2026)
+- AI Office Flow integrates with all design software solutions the business uses. Cabinet Vision may be named as an
+  example in AOF marketing.
+
 ## Public price line (APPROVED by Paul, 25 Nov 2026)
 - "Builds start at $6,990. Support plans start at $199 a month." OK to use in the chat, website, emails and scripts.
 
@@ -57,7 +61,6 @@ What the team knows about the business, and what it still needs from Paul. Updat
 5. The ideal customer: business size, type and region that fits best (and who doesn't).
 6. What measureflow.com.au and cabinetcare.com.au say now (the team can't open them from here).
 7. Measure/Render/Studio/CabinetCare: current prices and how many customers each has.
-8. Cabinet Vision: may AOF marketing name it, or keep it out of copy as Studio content does?
 
 ## Booking links (website dev, 25 Nov 2026)
 - Ecosystem Book a demo form prefills from the link and tags the source:
