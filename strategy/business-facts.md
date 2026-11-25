@@ -56,3 +56,10 @@ What the team knows about the business, and what it still needs from Paul. Updat
 6. What measureflow.com.au and cabinetcare.com.au say now (the team can't open them from here).
 7. Measure/Render/Studio/CabinetCare: current prices and how many customers each has.
 8. Cabinet Vision: may AOF marketing name it, or keep it out of copy as Studio content does?
+
+## Booking links (website dev, 25 Nov 2026)
+- Ecosystem Book a demo form prefills from the link and tags the source:
+  https://ecosystem.measureflow.com.au/?name=…&business=…&phone=…&email=…&source=chat#demo (also r= and utm_*).
+- Every booking carries source ("chat" / "website form") + r + utm into Netlify Forms and the email to accounts@.
+- The ecosystem site's AI chat widget is AI Office Flow's chat: its wording, texts to Paul and lead handling are
+  built in "Service Graph Ai", not the website.
