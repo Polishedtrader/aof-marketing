@@ -50,7 +50,10 @@ What the team knows about the business, and what it still needs from Paul. Updat
 ## The mission (Paul, 25 Nov 2026)
 - Most kitchen companies still run their INTERNAL processes on paper: job folders, job sheets, diaries,
   whiteboards, order and cutting lists, install schedules, phone calls and texts between office, factory and installers.
-  (Many already use design software - that's fine; it's everything around the design that's on paper.)
+  The only digital parts are islands - e-signing (maybe), design software, factory machines (CNC) - and they
+  don't talk to each other.
+- AOF is ONE system that talks from enquiry to marketing: enquiry -> quote -> signing -> design -> factory ->
+  install -> customer care -> reviews/marketing, all connected, in the business's own name.
 - AOF is here to upset that space and move them all digital.
 - So the real competitor is paper and "the way we've always done it", not other software.
   Main audience: owners on paper who've never bought office software (not people switching from Jobman).
