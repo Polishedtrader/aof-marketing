@@ -53,11 +53,17 @@ What the team knows about the business, and what it still needs from Paul. Updat
   i.e. ~$980/month less; a $17,990 build is covered by that difference in about 18 months, and the business owns
   the system and its accounts. (Scope differs - Jobman is a production ERP; don't claim like-for-like.)
 
+## Sales target (Paul, 25 Nov 2026)
+- At least 2 new businesses signed per month.
+- Working backwards (team estimate, to be checked against real results each month):
+  2 sales <- ~8 owner conversations (visit/call) <- ~50-60 businesses emailed + followed up a month
+  = 2-3 new businesses a day on weekdays. One a day (~20/month) won't reach the target on its own.
+
 ## Still needed from Paul (most useful first)
 2. The two customers: who, what they bought, results so far, and whether we may name them or ask for a quote.
 3. Warm lists: how many CabinetCare partners and MeasureFlow Measure/Render/Studio customers there are, and
    whether we may approach them about AI Office Flow.
-4. Sales target: how many builds Paul can deliver a month, and the goal (e.g. by March 2027).
+4. How many builds Paul can deliver a month (target set: at least 2 sales a month).
 5. The ideal customer: business size, type and region that fits best (and who doesn't).
 6. What measureflow.com.au and cabinetcare.com.au say now (the team can't open them from here).
 7. Measure/Render/Studio/CabinetCare: current prices and how many customers each has.
