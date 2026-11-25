@@ -61,6 +61,9 @@ What the team knows about the business, and what it still needs from Paul. Updat
   exactly this - fixing their issues, and the branded client app that makes the business look good to its
   clients while clients always know where their job is at - so they STAND OUT FROM THEIR COMPETITORS (other
   kitchen companies still sending texts and paper). Lead with these.
+- The "wow" moment (Paul): in the first meeting the owner saw THEIR logo on a phone as an app. The first email
+  campaign is built around recreating that moment - hence the logo rule (no logo = no email). On visits, show the
+  owner their own app on Paul's phone (officeflow /preview/apps with their logo) to recreate it in person.
 - Core belief (Paul): "Time is the one thing we can't get more of." Lead with time.
 - What the owner gets (Paul, 25 Nov 2026):
   - Saves time / time management: the owner and team know what's on, what's next and who's where, without
