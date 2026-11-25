@@ -54,6 +54,7 @@ What the team knows about the business, and what it still needs from Paul. Updat
   don't talk to each other.
 - AOF is ONE system that talks from enquiry to marketing: enquiry -> quote -> signing -> design -> factory ->
   install -> customer care -> reviews/marketing, all connected, in the business's own name.
+- Core belief (Paul): "Time is the one thing we can't get more of." Lead with time.
 - What the owner gets (Paul, 25 Nov 2026):
   - Saves time / time management: the owner and team know what's on, what's next and who's where, without
     chasing - the system plans and reminds so nobody's day is lost to phone calls and paperwork.
