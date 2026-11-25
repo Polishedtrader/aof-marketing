@@ -26,7 +26,10 @@ New wording, subject lines or campaigns are drafts for the Friday meeting until 
    The phones, home screen and logo badge are pictures from /email-art (web/netlify/functions/email-art.mjs),
    drawn with their logo so Outlook dark mode can't change them. Check each /email-art and /preview/apps link in the
    email loads (WebFetch) before sending. Design approved by Paul 19 Nov 2026 (TEST 6).
-3. Checks before sending (all must pass, see the Email writer task): signed-off copy; not Keena, Northern Beaches
+3. LOGO RULE (Paul, 25 Nov 2026): branding is what we sell. Never send an email whose phones/badge show only the
+   business name: the business's real logo must be in contacts.csv (logo column) and on the apps. No logo = don't send;
+   leave it queued, note "needs logo" in queue notes, and send the next business that has one.
+   Checks before sending (all must pass, see the Email writer task): signed-off copy; not Keena, Northern Beaches
    Kitchens or CTI and no mention of CTI; a publicly listed business enquiry address with its source in the footer;
    never emailed before and not suppressed in Resend; region order kept; name and logo match; PNG/JPG images only.
 4. If a check fails and can't be fixed within the signed-off copy: `python3 campaign/mark.py <address> skipped "<reason>"`
