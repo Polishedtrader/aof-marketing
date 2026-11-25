@@ -54,6 +54,13 @@ What the team knows about the business, and what it still needs from Paul. Updat
   don't talk to each other.
 - AOF is ONE system that talks from enquiry to marketing: enquiry -> quote -> signing -> design -> factory ->
   install -> customer care -> reviews/marketing, all connected, in the business's own name.
+- What the owner gets (Paul, 25 Nov 2026):
+  - Saves time.
+  - A system that thinks for you: it knows the next step and does it or prompts it.
+  - It remembers what's been sent and when (quotes, plans, orders, invoices, reminders) - nothing relies on memory.
+  - Everyone kept in the loop through the apps: customers and installers see where the job is, under the
+    business's own brand, so the "where are we up to?" calls stop.
+  - Reviews come in automatically at the end of each job, feeding the marketing.
 - AOF is here to upset that space and move them all digital.
 - So the real competitor is paper and "the way we've always done it", not other software.
   Main audience: owners on paper who've never bought office software (not people switching from Jobman).
