@@ -404,6 +404,16 @@ def slug(s): return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 if __name__ == "__main__":
     people = {r["to"].lower(): r for r in csv.DictReader(open(os.path.join(HERE, "contacts.csv")))}
+    # Greet the person the address belongs to (Paul, 26 Nov 2026): if there's no first name but the address is a
+    # person's (e.g. alex@) and that name matches an owner found by the List builder, use it.
+    DET = os.path.join(HERE, "details.csv")
+    det = {r["to"].lower(): r for r in csv.DictReader(open(DET))} if os.path.exists(DET) else {}
+    for a, r in people.items():
+        if r["first"]: continue
+        local = a.split("@")[0]
+        names = re.findall(r"[A-Za-z]+", (det.get(a, {}).get("owner_first") or ""))
+        hit = [x for x in names if x.lower() == local]
+        if hit: r["first"] = hit[0].capitalize()
     WORDMARK.update({r["business"]: r.get("wordmark", "") for r in people.values() if r.get("wordmark")})
     DARK.update({r["business"] for r in people.values() if r.get("logo_bg") == "dark"})
     ICON.update({r["business"]: r.get("icon", "") for r in people.values() if r.get("icon")})

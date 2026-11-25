@@ -57,3 +57,9 @@ cancel it with the Resend connector (cancel-email, the `follow_id` in queue.csv)
 
 Rules: one email per business, never to a row marked no-thanks/bounced/skipped/sent, never to Hold or Keena (not in the queue).
 Only send signed-off campaigns (see the top of this file).
+
+## Greeting rule (Paul, 26 Nov 2026)
+If the address belongs to a person (alex@, scott@...), greet that person by name, not "<business> team".
+build_apps.py does this automatically when the address name matches an owner in details.csv; the List builder
+should also put that name in contacts.csv's "first" column. Use "<business> team" only for shared addresses
+(info@, sales@, admin@).
