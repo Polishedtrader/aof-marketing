@@ -17,6 +17,7 @@ The code lives in Polishedtrader/ai-office-flow: never change it from here. The 
 ## The team (scheduled tasks; each reports to Paul)
 | Role | When (Sydney) | Job |
 |---|---|---|
+| List builder | Weekdays 6:37am | Works through the list in send order: real logo, owner's name, phone, address, checks the email is a public business address; keeps `campaign/details.csv`. No logo = no email. |
 | Email writer | Weekdays 8:11am | One email a day from a signed-off campaign, after checks; books one follow-up (3 working days, 8:30am); logs to `reports/sent-log.md`. |
 | Inbox watcher | Weekdays 11:53am | Bounces, replies, no-thanks; pushes interested replies to Paul straight away. |
 | Social writer | Wednesdays 10:23am | 3 posts for Facebook, Instagram, LinkedIn in `social/`, for Paul to approve and post. |
