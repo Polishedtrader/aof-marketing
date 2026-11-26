@@ -89,8 +89,12 @@ What the team knows about the business, and what it still needs from Paul. Updat
 
 ## Competitor pricing (Paul, 25 Nov 2026)
 - Jobman: about $1,600/month for the standard software (Paul's figure - verify before quoting publicly).
+  Checked 26 Nov 2026 (https://jobman.com.au/pricing, AUD): Small from $250, Medium from $650, Large from $1,250/month,
+  Enterprise on enquiry, plus add-ons (CAD/CAM integrations, extra users, appliances); 14-day free trial.
+  Don't quote $1,600 publicly; use "from $1,250/month for a large shop" if a comparison is needed.
 - Comparison for a full business: AOF about $622/month (Factory support $549 + ~$73 running) vs Jobman ~$1,600,
-  i.e. ~$980/month less; a $17,990 build is covered by that difference in about 18 months, and the business owns
+  i.e. ~$980/month less on Paul's figure, so a $17,990 build is covered in about 18 months. Against Jobman's
+  published Large price ($1,250) it's ~$630/month less, covered in about 28-29 months. Either way the business owns
   the system and its accounts. (Scope differs - Jobman is a production ERP; don't claim like-for-like.)
 
 ## Sales target (Paul, 25 Nov 2026)
