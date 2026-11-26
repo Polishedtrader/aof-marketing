@@ -1,3 +1,6 @@
+> PRIORITY CAMPAIGN (Paul, 26 Nov): paid ads on Meta (Instagram/Facebook) and/or Google, 12-16 Jan 2027.
+> Plan, timeline and checklist: strategy/campaigns/2027-01-paid-ads.md. First draft due Thu 3 Dec.
+
 # 90-day marketing plan
 
 Kept by the Strategist. Version 2, 26 Nov 2026 (v1 25 Nov). Covers 25 Nov 2026 - 28 Feb 2027.

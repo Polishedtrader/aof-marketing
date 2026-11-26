@@ -1,0 +1,39 @@
+# Paid ads campaign: 12-16 January 2027 (Paul, 26 Nov 2026)
+
+Paul wants the team to plan Instagram/Facebook (Meta) and/or Google ads to run Mon 12 - Fri 16 Jan 2027,
+when kitchen and joinery owners are back after the Christmas break and planning their year.
+Owner: Strategist (plans, researches, writes), Sales meeting (gets sign-off). Nothing is spent or published
+without Paul's approval. Paul sets up and pays for the ad accounts himself.
+
+## What the plan must cover
+1. Goal and measure: booked demos (ecosystem booking form, tagged source=meta / source=google), cost per booking.
+2. Channel choice with evidence: Meta (FB + IG) vs Google Search vs both - for reaching kitchen/joinery OWNERS in
+   Australia. Recommend one main channel if the budget is small.
+3. Audience/targeting: regions (NSW first?), owner/business-owner targeting, interests, Google keywords
+   (e.g. "kitchen business software", "joinery job management", competitor names - check what's allowed),
+   negative keywords, retargeting of site visitors and email clickers.
+4. Message, built on strategy/business-facts.md: paper to digital; one system from enquiry to marketing;
+   time is the one thing you can't get more of; their logo on their customers' phones; we fix issues;
+   built by a kitchen owner of 25+ years. "New year, new system" timing.
+5. Creative: 3-5 ad versions per channel - copy in full, image/video ideas (the branded app on a phone is the
+   hero; short reel of the apps), headlines and descriptions for Google. PNG/JPG only.
+6. Landing page: where the ads send people (ecosystem.measureflow.com.au booking form?) and any changes needed -
+   as a brief for the "Measureflow Ecosystem" project. Offer for January bookings, if Paul approves one.
+7. Budget options: e.g. $500 / $1,000 / $2,000 for the week, with expected clicks and bookings and the evidence.
+8. Tracking needed BEFORE launch: Meta pixel + conversions, Google Ads conversion tag, UTM links - see
+   strategy/tracking-rollout.md. List exactly what Paul and the website dev must do and by when.
+9. Follow-through: who calls people who book or enquire that week (Paul), and the email/visit follow-up.
+10. Ad rules check: Meta and Google ad policies, no customer names without Paul's written OK, no CTI.
+
+## Timeline
+- Thu 3 Dec: Strategist's first draft plan (research + channel recommendation + budget options).
+- Fri 4 Dec sales meeting: Paul picks channel(s) and budget.
+- Thu 10 Dec: full ad copy, creative briefs, landing page brief, tracking checklist.
+- Fri 11 Dec sales meeting: Paul signs off the campaign.
+- By Fri 18 Dec: Paul has ad accounts, payment and tracking set up (before the Christmas break).
+- Thu 7 Jan: final check (tracking firing, ads loaded in draft, approved).
+- Mon 12 - Fri 16 Jan: ads run. Daily results in the team's reports.
+- Fri 16 Jan sales meeting: results - cost per click, per booking, demos booked - and keep/drop.
+
+## Status
+- 26 Nov: requested by Paul. Not started.
