@@ -42,3 +42,11 @@ What this department will do.
 1. One Claude Doc "AOF sales meeting - <date>" with: the department reports (each in full), the conclusion
    report, and the meeting minutes (filled in once Paul has answered).
 2. `meetings/<date>.md`: the minutes (attendees, items, decisions, actions with who and when).
+
+## Opens and clicks (Paul, 27 Nov 2026) - in the Email report and the conclusion every week
+Per business sent this week and still open: business, first email (sent / opened / clicked), follow-up
+(sent / opened / clicked), replied y/n. Read them this way:
+- CLICKED (tapped "See the apps" or a button) = real interest. Rank the visit list on clicks and replies.
+- OPENED = maybe. Paul's BCC copy is the same email, so his opening it marks it "opened"; Apple Mail and spam
+  filters can also auto-open. Say this in one line under the table.
+- Deleted can't be tracked by any email system.
