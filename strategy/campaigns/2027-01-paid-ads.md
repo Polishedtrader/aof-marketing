@@ -5,6 +5,16 @@ when kitchen and joinery owners are back after the Christmas break and planning 
 Owner: Strategist (plans, researches, writes), Sales meeting (gets sign-off). Nothing is spent or published
 without Paul's approval. Paul sets up and pays for the ad accounts himself.
 
+## Paul's targeting direction (26 Nov 2026)
+- Target people SEARCHING FOR A CRM for kitchen AND bathroom businesses (e.g. "CRM for kitchen business",
+  "kitchen and bathroom CRM", "bathroom renovation software", "job management for cabinet makers") -> AI Office Flow.
+- Target RENDERING searches for kitchens etc (e.g. "kitchen rendering software", "3D kitchen render",
+  "kitchen design visualisation") -> MeasureFlow Render AI (part of the ecosystem; route these to the right page,
+  then lead into AOF). Check the Render AI landing page and pricing with Paul.
+- Audience includes bathroom renovators, not just kitchens/joinery.
+- This points to Google Search as the main channel (people actively looking), with Meta for retargeting and
+  awareness - the Strategist to confirm with evidence (search volumes, cost per click in AU).
+
 ## What the plan must cover
 1. Goal and measure: booked demos (ecosystem booking form, tagged source=meta / source=google), cost per booking.
 2. Channel choice with evidence: Meta (FB + IG) vs Google Search vs both - for reaching kitchen/joinery OWNERS in
