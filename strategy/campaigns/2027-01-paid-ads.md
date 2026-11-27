@@ -15,6 +15,12 @@ without Paul's approval. Paul sets up and pays for the ad accounts himself.
 - This points to Google Search as the main channel (people actively looking), with Meta for retargeting and
   awareness - the Strategist to confirm with evidence (search volumes, cost per click in AU).
 
+## Retargeting (Paul, 27 Nov 2026)
+Paul wants to show ads to people AFTER they click (from group posts, emails, Google). Install the Meta Pixel
+(and Google Ads tag) on ecosystem.measureflow.com.au NOW so a "website visitors" audience builds up before
+12 Jan - Meta needs about 100 people in an audience before it will run ads to it. Tagged links in every group
+post and email feed it. Retargeting ads in January go to this audience first.
+
 ## What the plan must cover
 1. Goal and measure: booked demos (ecosystem booking form, tagged source=meta / source=google), cost per booking.
 2. Channel choice with evidence: Meta (FB + IG) vs Google Search vs both - for reaching kitchen/joinery OWNERS in
