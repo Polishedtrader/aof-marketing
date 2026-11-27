@@ -37,3 +37,4 @@ Owner in brackets. Tick as done. Nothing is spent until Paul approves a campaign
   Meta Pixel PageView + Lead, privacy page. GA4 + Google Ads tag BUILT, waiting on Paul: create GA4 + Google Ads,
   put IDs in Netlify (site measureflowecosystem) env vars NEXT_PUBLIC_GOOGLE_TAG_ID and
   NEXT_PUBLIC_GOOGLE_ADS_CONVERSION, then trigger deploy. Needed before the 12 Jan search ads.
+- 27 Nov 2:08pm: dev confirmed Pixel live on production (fbevents loads, tr?id=1179568654407034&ev=PageView sent). Paul's 2:05 Test events check was blank - likely deploy timing or a Chrome blocker.
