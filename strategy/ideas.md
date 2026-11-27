@@ -1,3 +1,5 @@
+> 27 Nov 2026 sales meeting: Paul APPROVED all proposals (A drop-in round, B warm list, 1 customer proof, 2 supplier reps, 3 paid ads test from 12 Jan, weekly FB group post, local line, subject test, 7:30am send, Christmas pause, founding offer in principle). #10 owner Facebook groups is back ON as the weekly cabinet-maker group post. See meetings/2026-11-27.md.
+
 # Marketing ideas (ranked)
 
 Kept by the Strategist (Thursdays). Ranked by expected sales per hour of Paul's time.

@@ -51,5 +51,8 @@ post and email feed it. Retargeting ads in January go to this audience first.
 - Mon 12 - Fri 16 Jan: ads run. Daily results in the team's reports.
 - Fri 16 Jan sales meeting: results - cost per click, per booking, demos booked - and keep/drop.
 
+## Approved 27 Nov 2026 (sales meeting)
+Paid ads approved as a 4-week capped test from Mon 12 Jan, max $1,200 total (Proposal 3): Google Search first (CRM + rendering searches), Meta retargeting (Pixel live), LinkedIn optional. Stop any channel at $600 with no owner conversations. Review Fri 12 Feb. The 12-16 Jan week is the launch week of this test.
+
 ## Status
 - 26 Nov: requested by Paul. Not started.

@@ -19,7 +19,12 @@ def esc(s): return html.escape(s or "", quote=True)
 def poss(b): return b + ("'" if b.endswith("s") else "'s")
 
 
-def subject(biz, first):
+LOCAL = set()   # Mid North Coast (Coffs Harbour to Taree) addresses: add the "I'm local too" line (approved 27 Nov 2026)
+SUBJ_B = set()  # subject-line test, approved 27 Nov 2026: addresses in campaign/subject-test.csv with variant B
+
+
+def subject(biz, first, email=""):
+    if email.lower() in SUBJ_B: return f"{poss(biz)} own customer app"
     return (f"{first}, your customers could have the {biz} app on their phone" if first
             else f"Your customers could have the {biz} app on their phone")
 
@@ -188,6 +193,8 @@ def build(biz, first, email, site, logo, link):
             + quote(f"Hi Paul,\n\nI'd like a 20-minute walkthrough of AI Office Flow for {biz}.\n\nBest days and times for me:\n\nPhone:\n"))
     site = re.sub(r"^https?://(www\.)?", "", site or "").rstrip("/")
     hi = f"Hi {esc(first)}," if first else f"Hi {esc(biz)} team,"
+    local = (" I&#8217;m local too, based in Beechwood on the Mid North Coast, so if it&#8217;s easier I&#8217;m happy to drop in"
+             " and show you in person.") if email.lower() in LOCAL else ""
     pre = "Keep your customers and trades in the loop, with your logo on every screen."
     t = lambda s: f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">{s}</table>'
     cust = (f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFFFFF;border-radius:12px;margin:0 0 9px;box-shadow:0 4px 12px rgba(0,0,0,.12)">'
@@ -214,7 +221,7 @@ def build(biz, first, email, site, logo, link):
     return protect(f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="color-scheme" content="light only"><meta name="supported-color-schemes" content="light only">
-<title>{esc(subject(biz, first))}</title>
+<title>{esc(subject(biz, first, email))}</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>
  body{{margin:0;padding:0;background:#EFEBE4}} a{{color:{ORANGE}}}
@@ -245,7 +252,7 @@ def build(biz, first, email, site, logo, link):
 
 <tr><td class="px" style="padding:30px 32px 28px;font:400 16px/1.65 {BODY};color:#2A2A2A">
  <p style="margin:0 0 16px">{hi}</p>
- <p style="margin:0 0 16px">I&#8217;m Paul Snelling. I ran a kitchen business for over 25 years.</p>
+ <p style="margin:0 0 16px">I&#8217;m Paul Snelling. I ran a kitchen business for over 25 years.{local}</p>
  <p style="margin:0 0 16px">The calls that ate my day weren&#8217;t new enquiries. They were customers asking &#8220;where are we up to?&#8221;, and installers ringing for a drawing or a measurement from site.</p>
  <p style="margin:0">So I built AI Office Flow: one system that runs the office side of a kitchen business, from the first enquiry to handover. The two apps are the part your customers and trades see, and they carry your name, not mine.</p>
 </td></tr>
@@ -414,6 +421,10 @@ if __name__ == "__main__":
         names = re.findall(r"[A-Za-z]+", (det.get(a, {}).get("owner_first") or ""))
         hit = [x for x in names if x.lower() == local]
         if hit: r["first"] = hit[0].capitalize()
+    _Q = list(csv.DictReader(open(os.path.join(HERE, "queue.csv"))))
+    LOCAL.update(r["to"].lower() for r in _Q if r.get("priority", "").startswith("0 Mid North Coast"))
+    _ST = os.path.join(HERE, "subject-test.csv")
+    if os.path.exists(_ST): SUBJ_B.update(r["to"].lower() for r in csv.DictReader(open(_ST)) if r["variant"] == "B")
     WORDMARK.update({r["business"]: r.get("wordmark", "") for r in people.values() if r.get("wordmark")})
     DARK.update({r["business"] for r in people.values() if r.get("logo_bg") == "dark"})
     ICON.update({r["business"]: r.get("icon", "") for r in people.values() if r.get("icon")})
@@ -424,13 +435,13 @@ if __name__ == "__main__":
     if len(sys.argv) > 2 and sys.argv[1] == "--one":
         r = people[sys.argv[2].lower()]
         open(sys.argv[3], "w").write(build(r["business"], r["first"], r["to"], r["site"], r["logo"], r["link"]))
-        print(subject(r["business"], r["first"])); sys.exit()
+        print(subject(r["business"], r["first"], r["to"])); sys.exit()
     Q = os.path.join(HERE, "queue.csv"); rows = list(csv.DictReader(open(Q))); fields = list(rows[0].keys()); n = 0
     for q in rows:
         r = people.get(q["to"].lower())
         if not r or q["status"] != "queued": continue
         open(os.path.join(HERE, "emails", q["html_file"]), "w").write(build(r["business"], r["first"], r["to"], r["site"], r["logo"], r["link"]))
-        q["subject"] = subject(r["business"], r["first"]); n += 1
+        q["subject"] = subject(r["business"], r["first"], r["to"]); n += 1
     with open(Q, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(rows)
     print("rebuilt", n)
