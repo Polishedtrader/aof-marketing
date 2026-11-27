@@ -1,0 +1,23 @@
+# 10 cabinet-maker Facebook group posts (drafts for Paul's approval, 27 Nov 2026)
+POSTS = [
+ ("$500K CNC in the factory.", "Paper job folder in the office.", "Your machines are state of the art. Is your office?",
+  "Walk through most kitchen factories and you'll see a CNC worth more than a house. Walk into the office and it's job folders, a whiteboard and a phone that won't stop. We fix the office side, so it runs as well as the factory.", "cnc-vs-paper"),
+ ("Drowning in paperwork?", "One system from first enquiry to five-star review.", "",
+  "Quotes, orders, cutting lists, install dates, invoices, the texts in between. If it lives on paper or in someone's head, it gets lost. AI Office Flow puts the lot in one place, built around how your shop already works.", "drowning-paperwork"),
+ ("Your design software talks to your CNC.", "Nothing else talks to anything.", "We connect the lot. Enquiry to marketing.",
+  "Signing, design and the machines are digital. Everything in between is paper and phone calls. We join it up: enquiry, quote, signing, design, factory, install, care and reviews. One system, in your business's name.", "nothing-talks"),
+ ("“Where are we up to?”", "The call that eats your day.", "Your customers check their own app instead. With your logo on it.",
+  "Every kitchen business knows that call. Customers want to know when the stone's coming and when the installers turn up. Give them an app with your logo and the answer's already there.", "where-are-we-up-to"),
+ ("Time is the one thing", "you can't buy more of.", "Stop spending it on paperwork.",
+  "You can buy another machine. You can't buy back the nights spent doing quotes and chasing paperwork. The system does the chasing, so you get your evenings back.", "time"),
+ ("Your logo.", "Your customer's phone.", "Stand out from every other quote they get.",
+  "When a client is comparing three quotes, be the one with your own app: their plans, their dates, who's arriving when, all under your brand. It's what won our first big sale.", "your-logo"),
+ ("Measured once.", "Never typed again.", "Site measure → design → factory → install. No re-entry.",
+  "How many times does the same measurement get written down in your business? On site, in the design, on the cutting list, on the install sheet. Capture it once and let it flow through.", "measured-once"),
+ ("The office system", "that remembers for you.", "Quotes, orders, trade dates and reminders, sent on time. Every time.",
+  "Customers get reminded about selections and payments. Trades get reminded when they're due on site. Nothing relies on someone remembering. It just happens.", "remembers"),
+ ("Built by a kitchen maker.", "25 years on the tools.", "Not a software company guessing how your shop works.",
+  "I ran a kitchen business for over 25 years. I built the system I wish I'd had. It fits how kitchen and joinery shops actually run, because I've run one.", "built-by-kitchen-maker"),
+ ("Made to measure.", "Like your kitchens.", "Fitted to your business. Your team trained. Builds from $6,990.",
+  "You build kitchens made to measure. Your office system should be too. We fit it to how your business already works, and we train your staff on the system and on using AI. Builds start at $6,990. Support plans start at $199 a month.", "made-to-measure"),
+]

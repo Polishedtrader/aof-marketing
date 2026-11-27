@@ -81,6 +81,10 @@ What the team knows about the business, and what it still needs from Paul. Updat
   Message: going digital without the pain - built around how you already work, set up for you, staff and AI
   training included, and your customers see your brand.
 
+## From the first inbound lead call (Paul, 27 Nov 2026)
+- "Companies are drowning in paperwork and dated systems, with state-of-the-art machinery building the kitchen."
+  Lead with the contrast: modern machines in the factory, paper in the office.
+
 ## Who the competition is (Paul, 25 Nov 2026)
 - Competitors = CRM / job-management systems: Jobman, CabiPro, WorkGuru, Tradify, ServiceM8, simPRO, Fergus,
   plus general CRMs kitchen businesses use (HubSpot, Pipedrive, monday.com, spreadsheets).
