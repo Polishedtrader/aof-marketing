@@ -32,3 +32,8 @@ Owner in brackets. Tick as done. Nothing is spent until Paul approves a campaign
 
 ## Meta Pixel (27 Nov 2026)
 - Created: dataset "MeasureFlow ecosystem", ID 1179568654407034, on ad account 409888448181393 (Paul Snell; MeasureFlow page and measureflow Instagram sit under it). Sent to website dev to install on ecosystem.measureflow.com.au. CabinetCare Portal dataset (2238942376926051) is separate.
+- 27 Nov 2026, dev reply (strategy/briefs/2026-11-27-reply-booking-form-and-ad-tracking.pdf): LIVE - form field
+  "Business name" (required), double-submit protection, source/utm tags in lead emails (fb-group example tested),
+  Meta Pixel PageView + Lead, privacy page. GA4 + Google Ads tag BUILT, waiting on Paul: create GA4 + Google Ads,
+  put IDs in Netlify (site measureflowecosystem) env vars NEXT_PUBLIC_GOOGLE_TAG_ID and
+  NEXT_PUBLIC_GOOGLE_ADS_CONVERSION, then trigger deploy. Needed before the 12 Jan search ads.
