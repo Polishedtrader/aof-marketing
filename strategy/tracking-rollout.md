@@ -29,3 +29,6 @@ Owner in brackets. Tick as done. Nothing is spent until Paul approves a campaign
 - [ ] Sales meeting reports visits by business, time on page, bookings and source each week
 - [ ] Build audiences once there's traffic: website visitors 30/90 days, demo viewers, roadmap starters; exclude customers
 - [ ] Strategist proposes a first small retargeting test (budget, audience, ad, 2-week check) for Paul's sign-off
+
+## Meta Pixel (27 Nov 2026)
+- Created: dataset "MeasureFlow ecosystem", ID 1179568654407034, on ad account 409888448181393 (Paul Snell; MeasureFlow page and measureflow Instagram sit under it). Sent to website dev to install on ecosystem.measureflow.com.au. CabinetCare Portal dataset (2238942376926051) is separate.

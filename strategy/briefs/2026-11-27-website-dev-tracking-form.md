@@ -10,9 +10,9 @@ subtitle: "From the AI Office Flow marketing team, 27 Nov 2026. Site: ecosystem.
   A real lead came through as **"Business: Business"**: the label read like a choice between the two.
 - Stop double submits: disable the button once the form is sent, and ignore an identical resend within 10 minutes.
 
-## 2. Meta Pixel (once Paul sends the ID)
+## 2. Meta Pixel (do now)
 
-- **Pixel ID:** ______________________ *(Paul to fill in)*
+- **Pixel ID: 1179568654407034** (dataset "MeasureFlow ecosystem", on Paul Snell's ad account 409888448181393)
 - Fire **PageView** on every page and **Lead** when the Book a demo form is sent.
 - Not on customer pages (quotes, apps, job folders, packs), as in the earlier tracking brief.
 - Update the privacy wording.
