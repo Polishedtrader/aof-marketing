@@ -18,8 +18,8 @@ The code lives in Polishedtrader/ai-office-flow: never change it from here. The 
 | Role | When (Sydney) | Job |
 |---|---|---|
 | List builder | Weekdays 6:37am | Works through the list in send order: real logo, owner's name, phone, address, checks the email is a public business address; keeps `campaign/details.csv`. No logo = no email. |
-| Email writer | Weekdays 8:11am | One email a day from a signed-off campaign, after checks; books one follow-up (3 working days, 8:30am); logs to `reports/sent-log.md`. |
-| Inbox watcher | Weekdays 11:53am | Bounces, replies, no-thanks; pushes interested replies to Paul straight away. |
+| Email writer | Weekdays 7:27am | One email a day from a signed-off campaign, after checks; books one follow-up (3 working days, 8:30am); logs to `reports/sent-log.md`. |
+| Inbox watcher | Weekdays 7:53am + 11:53am | Bounces, replies, no-thanks; pushes interested replies to Paul straight away. |
 | Social writer | Wednesdays 10:23am | 3 posts for Facebook, Instagram, LinkedIn in `social/`, for Paul to approve and post. |
 | Lead researcher | Mondays 8:52am | New kitchen/joinery businesses by region into contacts.csv + queue.csv (runs on Paul's PC). |
 | Strategist | Thursdays 1:37pm | Head of marketing: researches and ranks new ways to reach owners, keeps `strategy/ideas.md` and `strategy/plan.md`, brings the top 1-2 proposals to Friday. |
