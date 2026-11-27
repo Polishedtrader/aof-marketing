@@ -4,6 +4,16 @@ Kept by the Strategist (Thursdays). Ranked by expected sales per hour of Paul's 
 Each: what, why (evidence + source), cost (time/money), expected result, cheap 1-2 week test, status.
 Status: new / proposed / approved / testing / worked / dropped (+ why).
 
+## RESULT (Paul, 27 Nov 2026): posts in cabinet maker Facebook groups work
+- Facebook page analytics, last 28 days: 3K views (+4K%), 1.4K viewers, 184 engagements, 244 3-second views,
+  22 one-minute views.
+- The three spikes (about 3 Nov ~270, 10 Nov ~370, 25 Nov ~520 views/day) line up with Paul's 3 posts in
+  cabinet maker groups. Each post did better than the last. Between posts, views drop to almost nothing.
+- Takeaway: trade groups reach owners. Make them a regular channel (e.g. one group post a week, rotating groups),
+  each with a way to act (booking link with source=fb-group, or "comment/DM me").
+- To learn: which groups, which posts did best, and did any enquiries follow. The Social writer drafts group
+  posts in the same style; the Strategist ranks this channel against email and visits.
+
 ## Where we are (review, Thu 26 Nov 2026)
 - Still 2 sales, both from Paul's network. 0 from marketing.
 - Cold email: 6 sent (19-25 Nov), all delivered, 0 bounces, 0 replies, 1 open seen (Mid Coast). Hastings Kitchens held
