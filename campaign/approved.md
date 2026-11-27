@@ -3,6 +3,7 @@
 Paul signs these off at the Friday sales meeting. Once listed here, the team runs them without asking again.
 Newest first: date approved, what, where the copy is, start date.
 
+- 27 Nov 2026 - PAID ADS ON HOLD (Paul). Channel = cabinet-maker Facebook group posts, packs ready to approve and load with tracked links. First pack: social/group-posts-2026-12/ (10 posts) - awaiting Paul's OK.
 - 27 Nov 2026 - CHRISTMAS PAUSE: last new first emails Fri 11 Dec; NO new first emails Mon 14 Dec - Fri 9 Jan (follow-ups already booked still go). Restart Mon 12 Jan. - running from 14 Dec.
 - 27 Nov 2026 - SEND TIME: first emails go at about 7:30am Sydney (Email writer runs 7:27am weekdays). Follow-ups stay 8:30am. - from Mon 30 Nov.
 - 27 Nov 2026 - SUBJECT TEST: next 10 queued businesses alternate A (current subject) / B ("<Business>'s own customer app") - list in `campaign/subject-test.csv`, built by `build_apps.py`. Report opens/clicks/replies A vs B in the weekly Email report. - from Mon 30 Nov.

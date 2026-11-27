@@ -50,3 +50,11 @@ Per business sent this week and still open: business, first email (sent / opened
 - OPENED = maybe. Paul's BCC copy is the same email, so his opening it marks it "opened"; Apple Mail and spam
   filters can also auto-open. Say this in one line under the table.
 - Deleted can't be tracked by any email system.
+
+## Social / Facebook group posts in the meeting (Paul, 27 Nov 2026)
+Paid ads are on hold; cabinet-maker Facebook group posts are the channel. Every Friday the meeting must include:
+- the Social writer's pack of new group posts (images, headings, captions, tracked links) for Paul's sign-off -
+  approved posts go into campaign/approved.md and Paul loads them;
+- results per post and per group: clicks and bookings by utm_content / utm_campaign (lead emails at accounts@,
+  website analytics when live), plus any views/comments Paul reports; Pixel audience size from Events Manager when known.
+Model pack: social/group-posts-2026-12/ (10 posts, 27 Nov).
